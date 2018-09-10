@@ -1,0 +1,4 @@
+price:39.00,49.99
+author:Stephenie Meyer,Sherry Argov
+year:2009,2005
+title:Twilight,Why men love bitches

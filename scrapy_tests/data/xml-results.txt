@@ -1,0 +1,4 @@
+price:30.00,29.99,49.99,39.95
+author:Giada De Laurentiis,J K. Rowling,James McGovern,Per Bothner,Kurt Cagle,James Linn,Vaidyanathan Nagarajan,Erik T. Ray
+year:2005,2005,2003,2003
+title:Everyday Italian,Harry Potter,XQuery Kick Start,Learning XML

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bookstore>
+
+<book category="romance">
+  <title lang="en">Twilight</title>
+  <author>Stephenie Meyer</author>
+  <year>2009</year>
+  <price>39.00</price>
+</book>
+
+<book category="women">
+  <title lang="en">Why men love bitches</title>
+  <author>Sherry Argov</author>
+  <year>2005</year>
+  <price>49.99</price>
+</book>
+
+</bookstore>

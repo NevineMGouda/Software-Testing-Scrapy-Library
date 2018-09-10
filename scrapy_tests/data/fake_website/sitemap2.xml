@@ -1,0 +1,28 @@
+<!-- Multiple page sitemap. -->
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <loc>FOLDER/2.html</loc>
+      <lastmod>2005-01-01</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>FOLDER/3.html</loc>
+      <changefreq>weekly</changefreq>
+   </url>
+   <url>
+      <loc>FOLDER/4.html</loc>
+      <lastmod>2004-12-23</lastmod>
+      <changefreq>weekly</changefreq>
+   </url>
+   <url>
+      <loc>FOLDER/5.html</loc>
+      <lastmod>2004-12-23T18:00:15+00:00</lastmod>
+      <priority>0.3</priority>
+   </url>
+   <url>
+      <loc>FOLDER/6.html</loc>
+      <lastmod>2004-11-23</lastmod>
+   </url>
+</urlset>

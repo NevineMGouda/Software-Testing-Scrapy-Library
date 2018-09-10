@@ -1,0 +1,12 @@
+<!-- Sitemap which should be fetched throught the robots.txt file. -->
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <loc>FOLDER/7.html</loc>
+      <lastmod>2004-10-01T18:23:17+00:00</lastmod>
+   </url>
+   <url>
+      <loc>FOLDER/8.html</loc>
+      <lastmod>2005-01-01</lastmod>
+   </url>
+</urlset>
